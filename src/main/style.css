@@ -15,7 +15,7 @@
 .items {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
+  gap: 20px;
 }
 
 .items a {

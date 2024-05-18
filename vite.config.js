@@ -17,6 +17,7 @@ export default defineConfig({
       input: {
         main: path.resolve(__dirname, "src/index.html"),
         raycaster: path.resolve(__dirname, "src/raycaster/index.html"),
+        tossface: path.resolve(__dirname, "src/tossface/index.html"),
       },
     },
   },
